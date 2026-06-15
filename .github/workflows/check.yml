@@ -56,4 +56,4 @@ jobs:
 
           git diff --staged --quiet || git commit -m "update state"
 
-          git pus
+          git push
